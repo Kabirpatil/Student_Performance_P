@@ -1,0 +1,15 @@
+Student_Name,Gender,Sleep Type,Lunch Type,Study Preparation,Screen Time,CAT-1 Marks,CAT-2 Marks,Predicted CGPA,Rank
+Nilay,Male,half,acidic,fully prepared,excessive,80,90,83.23636363636363,1
+kunal,Male,full,basic,fully prepared,negligible,90,85,80.0625,2
+Ashish,Male,full,basic,fully prepared,negligible,80,85,77.71428571428571,3
+Himanshu,Male,full,basic,fully prepared,excessive,70,80,65.5,4
+cnakjch,Female,half,acidic,partially prepared,negligible,56,54,54.98136645962733,5
+Shivshankar,Male,full,acidic,not prepared,negligible,45,60,54.87878787878788,6
+Srushti,Female,half,basic,partially prepared,moderate,60,50,54.46540880503144,7
+Bhavesh,Male,half,acidic,partially prepared,excessive,45,55,53.88311688311688,8
+Kabir,Male,full,acidic,partially prepared,negligible,45,50,51.75968992248062,9
+Kabir,Male,full,acidic,partially prepared,negligible,45,50,51.75968992248062,9
+harsh,Male,full,basic,partially prepared,negligible,45,47,51.75968992248062,9
+Himanshu,Female,half,basic,partially prepared,moderate,50,45,49.33695652173913,10
+Himanshu,Male,full,basic,not prepared,negligible,54,30,31.95833333333333,11
+Abhi,Female,full,acidic,not prepared,excessive,20,25,25.8,12
